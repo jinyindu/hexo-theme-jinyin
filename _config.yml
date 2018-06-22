@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: JinYin's Blog
+title: JinYin Blog
 subtitle: 记录前端开发中的点点滴滴!
 author: JinYin Du
 language:
@@ -12,7 +12,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://hexo-theme-jinyin
-root: /hexo-theme-jinyin/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
